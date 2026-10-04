@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Login button not working",
+        "description": "Users cannot click the login button",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "message": "[URGENT] Login button not working \u2014 needs immediate attention"
+    },
+    {
+        "id": 2,
+        "title": "Update footer text",
+        "description": "Footer contains outdated text",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "message": "Update footer text \u2014 low priority, handle when free"
+    }
+]
